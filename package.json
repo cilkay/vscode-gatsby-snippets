@@ -7,7 +7,7 @@
     "icon": "images/gatsby-snippets-icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nickytonline/vscode-gatsby-snippets.git"
+        "url": "https://github.com/cilkay/vscode-gatsby-snippets.git"
     },
     "engines": {
         "vscode": "^1.19.0"
